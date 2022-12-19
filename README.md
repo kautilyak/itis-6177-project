@@ -5,7 +5,7 @@
 
 Cognitive Service for Language is a managed service to add high-quality natural language capabilities, from sentiment analysis and entity extraction to automated question answering. 
 
-Testing Resource: Postman
+**Testing Resource**: Postman
 
 In this project we will look at the Sentiment Analysis API that categorizes text as either positive, negative or neutral.
 

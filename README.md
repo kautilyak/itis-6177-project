@@ -6,6 +6,7 @@
 Cognitive Service for Language is a managed service to add high-quality natural language capabilities, from sentiment analysis and entity extraction to automated question answering. 
 
 Testing Resource: Postman
+
 In this project we will look at the Sentiment Analysis API that categorizes text as either positive, negative or neutral.
 
 Sentiment analysis and opinion mining are features offered by Azure Cognitive Service for Language, a collection of machine learning and AI algorithms in the cloud for developing intelligent applications that involve written language. These features help you find out what people think of your brand or topic by mining text for clues about positive or negative sentiment, and can associate them with specific aspects of the text.

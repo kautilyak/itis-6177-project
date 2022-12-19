@@ -2,8 +2,6 @@
 # Sentiment analysis using azure cognitive language API
 ### Version: 1.1
 
-Name: Kautilya Kondragunta
-ID: 801231832
 
 Cognitive Service for Language is a managed service to add high-quality natural language capabilities, from sentiment analysis and entity extraction to automated question answering. 
 

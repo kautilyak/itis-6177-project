@@ -13,7 +13,7 @@ Sentiment analysis and opinion mining are features offered by Azure Cognitive Se
 
 To use this app:
 - Open Postman
-- Type in the API URL in the URL box
+- Type in the API URL in the URL box [GET]
 
 
 - API URL: http://137.184.149.104:3001/sentiment

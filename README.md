@@ -1,5 +1,6 @@
 # itis-6177-project
 # Sentiment analysis using azure cognitive language API
+### Version: 1.1
 
 Name: Kautilya Kondragunta
 ID: 801231832
